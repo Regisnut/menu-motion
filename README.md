@@ -1,7 +1,7 @@
 <h2 align="center">Gatsby sneakers menu</h2>
 
 <p align="center">
-<img alt="gif" src="https://github.com/Regisnut/gatsby-framer-menu/blob/master/assets/Kapture.gif" width="1000">
+<img alt="gif" src="https://github.com/Regisnut/menu-motion/blob/master/src/assets/Kapture.gif" width="1000">
 </p>
 
 ## Overview
